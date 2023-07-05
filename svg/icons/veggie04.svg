@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 69">
+  <defs>
+    <style>
+      .b {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.8px;
+      }
+
+      .c {
+        fill: #ce7438;
+      }
+
+      .d {
+        fill: #472a16;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="d" x="5" y="4" width="69" height="65"/>
+    <rect class="c" width="69" height="65"/>
+  </g>
+  <polyline class="b" points="32.86 17.49 34.52 10.3 38.2 17.75 47.27 13.84 41.2 20.31 50.25 21.05 43.5 24.97"/>
+  <polyline class="b" points="42.38 27.56 25.5 54 30 21 33 21"/>
+  <line class="b" x1="33" y1="24.22" x2="36.75" y2="27.75"/>
+  <line class="b" x1="31.5" y1="29.25" x2="34.88" y2="32.46"/>
+  <line class="b" x1="30" y1="33" x2="33.19" y2="36.08"/>
+  <line class="b" x1="27.68" y1="37.98" x2="30" y2="40.5"/>
+</svg>

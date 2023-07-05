@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 69">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 1.6px;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .c {
+        stroke-width: 1.8px;
+      }
+
+      .d {
+        fill: #ce7438;
+      }
+
+      .e {
+        fill: #472a16;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="e" x="5" y="4" width="69" height="65"/>
+    <rect class="d" width="69" height="65"/>
+  </g>
+  <path class="c" d="M17.98,28.26c.62-1.72-1.74-8.71,2.43-6.98-2.44-8.86,9.32-6.92,14.31-7.03,2,1.75,7.93,9.58,11.27,7.84,30.85,27.19-27.33,43.47-28.01,6.17Z"/>
+  <line class="b" x1="40.48" y1="20.02" x2="33.48" y2="27.02"/>
+  <line class="b" x1="45.59" y1="29.09" x2="42.72" y2="31.96"/>
+</svg>

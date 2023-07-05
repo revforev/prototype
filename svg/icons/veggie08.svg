@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 69">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 1.8px;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .d {
+        fill: #ce7438;
+      }
+
+      .c {
+        stroke-width: 1.2px;
+      }
+
+      .e {
+        fill: #472a16;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="e" x="5" y="4" width="69" height="65"/>
+    <rect class="d" width="69" height="65"/>
+  </g>
+  <path class="c" d="M27.75,46.71v-7.39c0-3.96,1.68-7.74,4.64-10.53,2.28-2.14,4.46-4.28,4.04-4.28-.38,0,1.35,1.84,3.34,3.84,3.23,3.23,5.02,7.52,5.02,11.97v6.38"/>
+  <path class="b" d="M32.11,20.55s-12.95,.79-12.95,14.27,15.33,12.68,16.92,12.68,6.51,0,6.51,0c0,0,11.41-.62,11.41-11.41s-5.67-15.55-10.21-15.55-7.21-7.11-7.21-7.11h-7.66l.02,3.94h3.17v3.17Z"/>
+  <path class="c" d="M36.08,47.5V25.15s3.92-6.94-7.15-11.71"/>
+  <path class="c" d="M22.27,43.25s-4.7-16.25,13.67-24.23"/>
+  <path class="c" d="M36.75,21.58s16.09,3.15,14.84,21.67"/>
+</svg>

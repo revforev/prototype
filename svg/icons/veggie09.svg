@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 69">
+  <defs>
+    <style>
+      .b {
+        stroke-width: 1.8px;
+      }
+
+      .b, .c {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .c {
+        stroke-width: 3px;
+      }
+
+      .d {
+        fill: #ce7438;
+      }
+
+      .e {
+        fill: #472a16;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="e" x="5" y="4" width="69" height="65"/>
+    <rect class="d" width="69" height="65"/>
+  </g>
+  <path class="b" d="M20.88,37.41c-2.14-4.6-3.02-9.73-2.22-14.74,.71-4.39,10.34-11.09,14.59-7.79,10.2,7.93,20.39,9.58,18.69,21.78s-14.16,13.34-19.82,13.34c-3.58,0-8.75-7.26-11.24-12.59Z"/>
+  <line class="c" x1="35.95" y1="26.79" x2="37.02" y2="26.79"/>
+  <line class="c" x1="34.95" y1="26.79" x2="36.02" y2="26.79"/>
+  <line class="c" x1="42.86" y1="34.04" x2="43.86" y2="34.04"/>
+  <line class="c" x1="41.86" y1="34.04" x2="42.86" y2="34.04"/>
+  <line class="c" x1="32.98" y1="35" x2="34.18" y2="35"/>
+  <line class="c" x1="31.98" y1="35" x2="33.18" y2="35"/>
+</svg>
